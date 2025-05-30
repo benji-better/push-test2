@@ -1,0 +1,15 @@
+# this file contains the social media links and usernames of the author
+# the commented lines are the default social media links supported by the template
+# the socials will be displayed in the order they are defined here
+### ------
+# email: you@example.com # your email address
+linkedin_username: ben-walton226 # your LinkedIn user name
+# instagram_id: # your instagram id
+# kaggle_id: # your kaggle id
+# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# medium_username: # your Medium username
+# stackoverflow_id: # your stackoverflow id
+# telegram_username: # your Telegram user name
+# work_url: # work page URL
+# x_username: # your X handle
+# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
