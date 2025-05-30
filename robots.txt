@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://benji-better.github.io/portfolio2//sitemap.xml
